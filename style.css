@@ -368,6 +368,29 @@ html, body {
 }
 
 @media (max-width: 900px) {
+
+    .presentation img
+{
+    width: 150px;
+    height: 150px;
+    margin-top: 200px;
+}
+
+.presentation h2
+{
+    font-size: xx-large;
+}
+
+.presentation h3
+{
+    font-size: large;
+}
+
+.mcv
+{                 
+    margin-top: 5px; 
+}
+
   .binf {
     flex-direction: column;
     padding: 20px;
@@ -800,6 +823,7 @@ textarea {
   font-weight: 600;
   letter-spacing: 0.5px;
 }
+
 
 
 
