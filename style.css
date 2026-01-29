@@ -388,7 +388,8 @@ html, body {
 
 .mcv
 {                 
-    margin-top: 5px; 
+    margin-top: 5px;
+    margin-bottom: 15px;
 }
 
   .binf {
@@ -823,6 +824,7 @@ textarea {
   font-weight: 600;
   letter-spacing: 0.5px;
 }
+
 
 
 
